@@ -1,9 +1,10 @@
 div {
+    margin: 100px;
     height: 100px;
     width: 100px;
     background-color: black;
     position: fixed;
-    bottom: 0;
-    right: 0;
+    left: 100px;
+    top: 100px;
 
 }
